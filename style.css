@@ -277,6 +277,8 @@ header .navbar {
     color: var(--secondary-color);
 }
 
+/* Menu section sttling */
+
 /* Resposive media query code for max width 900px */
 @media screen and (max-width: 900px) {
 
